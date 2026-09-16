@@ -2,5 +2,7 @@
   "name": "SmartLearn",
   "description": "AI-powered personalized learning platform for students to master concepts, create smart notes, generate quizzes, and track academic progress.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
